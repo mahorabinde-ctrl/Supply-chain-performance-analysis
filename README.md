@@ -1,5 +1,5 @@
 # 🚚 Supply Chain & Delivery Performance Analysis
-
+![Power BI Dashboard](nom_exact_de_votre_image.png)
 ## Executive Summary
 This project analyzes over 99,000 real e-commerce delivery records to assess the operational impact of shipping delays on customer satisfaction. Using SQL Server (T-SQL) for data modeling and Power BI for interactive visualization, the study demonstrates how delivery bottlenecks directly correlate with lower customer review scores.
 
